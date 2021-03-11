@@ -1,6 +1,4 @@
-<p align="center">
-<a href="#"><img width="45%"  height="200px" src="https://scontent.ftun11-1.fna.fbcdn.net/v/t1.0-9/49213460_1429298637201149_8933984441894699008_o.jpg?_nc_cat=102&ccb=2&_nc_sid=174925&_nc_ohc=1XLpAk7yyUUAX_U4Uzj&_nc_ht=scontent.ftun11-1.fna&oh=dc3959227023480a23af641cbd639ae5&oe=5FDE4EFF" height="175px"/></a>
-  </p>
+
 
 <h3>Hey there, I'm <a href="https://freshidea.com/jonah/">Yaakoubi Mohamed</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
